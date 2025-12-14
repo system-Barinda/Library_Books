@@ -23,7 +23,7 @@ Project Title: Library Books Management System
 Students:
 - Full Name 1 – system sylvere Barinda Reg No 24RP08563
 - Full Name 2 – Thiery aime Byiringiro Reg No 24RP07221
-- Full Name 3 – Fubrice Mujyema  Reg No 24RP
+- Full Name 3 – Fubrice Mujyema  Reg No 24RP01072
 - Full Name 4 – Kellia Kayitare Berwa  Reg No 24RP12380
 
 
@@ -217,9 +217,6 @@ MainFrame.java
 * Book management page
 * Category page
 
-*(Screenshots can be added here if required by the assignment)*
-
----
 
 ## 📦 Git Commit
 
